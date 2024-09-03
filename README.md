@@ -1,3 +1,7 @@
+# Todo List React
+
+<img width="1440" alt="Screenshot 2024-09-03 at 13 27 38" src="https://github.com/user-attachments/assets/bbbead50-0a04-4443-bf2e-d6b084a19954">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
